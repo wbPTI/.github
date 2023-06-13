@@ -17,7 +17,7 @@ Public repositories:
 
 ## Citations:
 
-Finn,Arden Jeremy; Masaki,Takaaki. [Subnational Targeting of Project Sites Using Project Targeting Index (PTI) (English)](http://documents.worldbank.org/curated/en/993931596523347991/Subnational-Targeting-of-Project-Sites-Using-Project-Targeting-Index-PTI). Poverty and Equity Note,No. 33 Washington, D.C. : World Bank Group. 
+Finn, Arden Jeremy; Masaki,Takaaki. [Subnational Targeting of Project Sites Using Project Targeting Index (PTI) (English)](http://documents.worldbank.org/curated/en/993931596523347991/Subnational-Targeting-of-Project-Sites-Using-Project-Targeting-Index-PTI). Poverty and Equity Note,No. 33 Washington, D.C. : World Bank Group. 
 
 Masaki, Takaaki; Bosch, Lander Sonia M; Finn, Arden Jeremy; Meyer, Moritz; Haider, Syed Zeeshan; Bukin, Eduard.
 [Dashboards for Development : The Power of Geospatial Data at Your Fingertips (English)](http://documents.worldbank.org/curated/en/099552206032228352/IDU0918d19120955e04c82096b8073cb389e875a). Poverty and Equity Notes ; No. 47 Washington, D.C. : World Bank Group. 
