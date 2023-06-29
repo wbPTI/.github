@@ -22,7 +22,7 @@ The links and source codes to the PTI dashboards (for selected countries) are av
   * Ethiopia:  [app](http://w0lxprconn01.worldbank.org:3939/ethPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/EthiopiaTigrayCrisisPTI) and [preparing data](https://github.com/wbPTI/EthiopiaTigrayCrisis)
   * Madagasacar:  [app](https://wbg-poverty-gp.shinyapps.io/mdgPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/mdgPTI) and [preparing data](https://github.com/wbPTI/mdgPTIdata)
   * Mozambique:  [app](https://wbg-poverty-gp.shinyapps.io/mozPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/mozPTI) and [preparing data](https://github.com/wbPTI/mozPTIdata)
-  * Sahel:  [app](https://wbg-poverty-gp.shinyapps.io/sahelPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/sahelPTI) and [preparing data](https://github.com/wbPTI/sahelPTIdata)
+  * Sahel (Regional):  [app](https://wbg-poverty-gp.shinyapps.io/sahelPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/sahelPTI) and [preparing data](https://github.com/wbPTI/sahelPTIdata)
   * Somalia:  [app](https://wbg-poverty-gp.shinyapps.io/somPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/somPTI) and [preparing data](https://github.com/wbPTI/somPTIdata)
   * South Sudan:  [app](https://wbg-poverty-gp.shinyapps.io/ssdPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/ssdPTI) and [preparing data](https://github.com/wbPTI/ssdPTIdata)
   * Sudan:  [app](https://wbg-poverty-gp.shinyapps.io/sdnPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/sdnPTI) and [preparing data](https://github.com/wbPTI/sdnPTIdata)
