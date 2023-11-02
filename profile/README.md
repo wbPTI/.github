@@ -50,6 +50,7 @@ The links and source codes to the PTI dashboards (for selected countries) are av
  * Fiji: [app](https://ifeanyi.shinyapps.io/fijiPTI/), Github Repo for [launching the app](https://github.com/wbPTI/fijiPTI) and [preparing the data](https://github.com/wbPTI/pciPTIdata)
  * Vanuatu : [app](https://ifeanyi.shinyapps.io/vutPTI/), Github Repo for [launching the app](https://github.com/wbPTI/vutPTI) and [preparing the data](https://github.com/wbPTI/pciPTIdata)
 
+</details>  </details>  
 ## Citations:
 
 Finn, Arden Jeremy; Masaki,Takaaki. [Subnational Targeting of Project Sites Using Project Targeting Index (PTI) (English)](http://documents.worldbank.org/curated/en/993931596523347991/Subnational-Targeting-of-Project-Sites-Using-Project-Targeting-Index-PTI). Poverty and Equity Note,No. 33 Washington, D.C. : World Bank Group. 
