@@ -55,8 +55,6 @@ The links and source codes to the PTI dashboards (for selected countries) are av
 
 ## Citations
 
-<!--
-
 Finn, Arden Jeremy; Masaki,Takaaki. [Subnational Targeting of Project Sites Using Project Targeting Index (PTI) (English)](http://documents.worldbank.org/curated/en/993931596523347991/Subnational-Targeting-of-Project-Sites-Using-Project-Targeting-Index-PTI). Poverty and Equity Note,No. 33 Washington, D.C. : World Bank Group. 
 
 Masaki, Takaaki; Bosch, Lander Sonia M; Finn, Arden Jeremy; Meyer, Moritz; Haider, Syed Zeeshan; Bukin, Eduard.
