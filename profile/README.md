@@ -11,7 +11,7 @@ For more information, visit: [Poverty & Equity GP. Project Targeting Index (PTI)
 
 The links and source codes to the PTI dashboards (for selected countries) are available below. 
 
-## Africa
+## Sub Saharan Africa (SSA)
 
 <details>
   <summary>Click to view list of apps and links to source codes in the region</summary>
@@ -27,8 +27,28 @@ The links and source codes to the PTI dashboards (for selected countries) are av
   * South Sudan:  [app](https://wbg-poverty-gp.shinyapps.io/ssdPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/ssdPTI) and [preparing data](https://github.com/wbPTI/ssdPTIdata)
   * Sudan:  [app](https://wbg-poverty-gp.shinyapps.io/sdnPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/sdnPTI) and [preparing data](https://github.com/wbPTI/sdnPTIdata)
   * Tanzania: [app](http://w0lxprconn01.worldbank.org:3939/tzaPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/tzaPTI) and [preparing data](https://github.com/wbPTI/tzaPTIdata)
-  * Zambia:  [app](https://wbg-poverty-gp.shinyapps.io/zamPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/zamPTI) and [preparing data](https://github.com/wbPTI/zamPTIdata)
+  * Zambia:  [app (v1.0)](https://wbg-poverty-gp.shinyapps.io/zamPTI/); [app (v1.1) - MoFNP](https://ifeanyi.shinyapps.io/zamPTI/) GitHub repo for [launching the app](https://github.com/wbPTI/zamPTI) and [preparing data](https://github.com/wbPTI/zamPTIdata)
+
 </details>  
+
+## North Africa and the Middle East (MENA)
+
+<details>
+  <summary>Click to view list of apps and links to source codes in the region</summary>
+
+  * Morocco: [app](http://w0lxprconn01.worldbank.org:3939/marPTI/)
+  * Yemen: [app](http://w0lxprconn01.worldbank.org:3939/yemPTI/)
+</details>  
+
+## East Asia and the Pacific Islands (EAP)
+
+<details>
+  <summary>Click to view list of apps and links to source codes in the region</summary>
+
+ * Pacific Island Countries (joint dashboard): [app](https://ifeanyi.shinyapps.io/pciPTI/), Github Repo for  [launching the app](https://github.com/wbPTI/pciPTI) and [preparing the data](https://github.com/wbPTI/pciPTIdata)
+ * Papua New Guinea: [app](https://ifeanyi.shinyapps.io/pngPTI/), Github Repo for [launching the app](https://github.com/wbPTI/pngPTI) and [preparing the data](https://github.com/wbPTI/pciPTIdata)
+ * Fiji: [app](https://ifeanyi.shinyapps.io/fijiPTI/), Github Repo for [launching the app](https://github.com/wbPTI/fijiPTI) and [preparing the data](https://github.com/wbPTI/pciPTIdata)
+ * Vanuatu : [app](https://ifeanyi.shinyapps.io/vutPTI/), Github Repo for [launching the app](https://github.com/wbPTI/vutPTI) and [preparing the data](https://github.com/wbPTI/pciPTIdata)
 
 ## Citations:
 
