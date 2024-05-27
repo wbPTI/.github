@@ -30,6 +30,7 @@ The links and source codes to the PTI dashboards (for selected countries) are av
   * South Sudan:  [app](https://wbg-poverty-gp.shinyapps.io/ssdPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/ssdPTI) and [preparing data](https://github.com/wbPTI/ssdPTIdata)
   * Sudan:  [app](https://wbg-poverty-gp.shinyapps.io/sdnPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/sdnPTI) and [preparing data](https://github.com/wbPTI/sdnPTIdata)
   * Tanzania: [app](http://w0lxprconn01.worldbank.org:3939/tzaPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/tzaPTI) and [preparing data](https://github.com/wbPTI/tzaPTIdata)
+  * Benin:  [app](https://wbg-poverty-gp.shinyapps.io/tgoPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
   * Zambia:  [app (v1.0)](https://wbg-poverty-gp.shinyapps.io/zamPTI/); [app (v1.1) - MoFNP](https://ifeanyi.shinyapps.io/zamPTI/) GitHub repo for [launching the app](https://github.com/wbPTI/zamPTI) and [preparing data](https://github.com/wbPTI/zamPTIdata)
 
 </details>  
