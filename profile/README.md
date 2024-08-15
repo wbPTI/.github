@@ -17,7 +17,7 @@ The links and source codes to the PTI dashboards (for selected countries) are av
   <summary>Click to view list of apps and links to source codes in the region</summary>
 
   * Cameroon: [app](http://w0lxprconn01.worldbank.org:3939/cmrPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/cmrPTI) and [preparing data](https://github.com/wbPTI/cmrPTIdata)
-  * Benin:  [app](https://wbg-poverty-gp.shinyapps.io/benPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
+  * Benin:  [app](https://w0lxdrconn01.worldbank.org/benPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
   * Burundi: [app](http://w0lxprconn01.worldbank.org:3939/bdiPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/bdiPTI) and [preparing data](https://github.com/wbPTI/bdiPTIdata)
   * Democratic Republic of Congo:  [app](https://wbg-poverty-gp.shinyapps.io/drcPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/drcPTI) and [preparing data](https://github.com/wbPTI/drcPTIdata)
   * Cote d'Ivoire:  [app](https://w0lxdrconn01.worldbank.org/civPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
@@ -31,7 +31,6 @@ The links and source codes to the PTI dashboards (for selected countries) are av
   * South Sudan:  [app](https://wbg-poverty-gp.shinyapps.io/ssdPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/ssdPTI) and [preparing data](https://github.com/wbPTI/ssdPTIdata)
   * Sudan:  [app](https://wbg-poverty-gp.shinyapps.io/sdnPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/sdnPTI) and [preparing data](https://github.com/wbPTI/sdnPTIdata)
   * Tanzania: [app](http://w0lxprconn01.worldbank.org:3939/tzaPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/tzaPTI) and [preparing data](https://github.com/wbPTI/tzaPTIdata)
-  * Benin:  [app](https://wbg-poverty-gp.shinyapps.io/tgoPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
   * Zambia:  [app (v1.0)](https://wbg-poverty-gp.shinyapps.io/zamPTI/); [app (v1.1) - MoFNP](https://ifeanyi.shinyapps.io/zamPTI/) GitHub repo for [launching the app](https://github.com/wbPTI/zamPTI) and [preparing data](https://github.com/wbPTI/zamPTIdata)
 
 </details>  
