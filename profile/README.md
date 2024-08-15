@@ -1,4 +1,4 @@
-[## The Project Targeting Index (PTI)
+## The Project Targeting Index (PTI)
 
 <!--
 This is a field wit comments. 
