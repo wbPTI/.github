@@ -20,7 +20,7 @@ The links and source codes to the PTI dashboards (for selected countries) are av
   * Benin:  [app](https://wbg-poverty-gp.shinyapps.io/benPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
   * Burundi: [app](http://w0lxprconn01.worldbank.org:3939/bdiPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/bdiPTI) and [preparing data](https://github.com/wbPTI/bdiPTIdata)
   * Democratic Republic of Congo:  [app](https://wbg-poverty-gp.shinyapps.io/drcPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/drcPTI) and [preparing data](https://github.com/wbPTI/drcPTIdata)
-  * Cote d'Ivoire:  [app](https://wbg-poverty-gp.shinyapps.io/civPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
+  * Cote d'Ivoire:  [app](https://w0lxdrconn01.worldbank.org/civPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
   * Guinea:  [app](https://wbg-poverty-gp.shinyapps.io/ginPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
   * Ethiopia:  [app](http://w0lxprconn01.worldbank.org:3939/ethPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/EthiopiaTigrayCrisisPTI) and [preparing data](https://github.com/wbPTI/EthiopiaTigrayCrisis)
   * Madagasacar:  [app](https://wbg-poverty-gp.shinyapps.io/mdgPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/mdgPTI) and [preparing data](https://github.com/wbPTI/mdgPTIdata)
