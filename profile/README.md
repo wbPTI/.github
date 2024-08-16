@@ -20,10 +20,12 @@ The links and source codes to the PTI dashboards (for selected countries) are av
   * Benin:  [app](https://w0lxdrconn01.worldbank.org/benPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
   * Burundi: [app](http://w0lxprconn01.worldbank.org:3939/bdiPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/bdiPTI) and [preparing data](https://github.com/wbPTI/bdiPTIdata)
   * Democratic Republic of Congo:  [app](https://wbg-poverty-gp.shinyapps.io/drcPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/drcPTI) and [preparing data](https://github.com/wbPTI/drcPTIdata)
+  * Cabo Verde:  [app](https://w0lxdrconn01.worldbank.org/cpvPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/cpvPTI) and [preparing data](https://github.com/wbPTI/west_africa_4_PTIdata)
   * Cote d'Ivoire:  [app](https://w0lxdrconn01.worldbank.org/civPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
   * Guinea:  [app](https://wbg-poverty-gp.shinyapps.io/ginPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa) and [preparing data](https://github.com/wbPTI/west_africa)
   * Ethiopia:  [app](http://w0lxprconn01.worldbank.org:3939/ethPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/EthiopiaTigrayCrisisPTI) and [preparing data](https://github.com/wbPTI/EthiopiaTigrayCrisis)
   * Madagasacar:  [app](https://wbg-poverty-gp.shinyapps.io/mdgPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/mdgPTI) and [preparing data](https://github.com/wbPTI/mdgPTIdata)
+  * Mauritania:  [app](https://w0lxdrconn01.worldbank.org/civPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/mrtPTI) and [preparing data](https://github.com/wbPTI/west_africa_4_PTIdata)
   * Mozambique:  [app](https://wbg-poverty-gp.shinyapps.io/mozPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/mozPTI) and [preparing data](https://github.com/wbPTI/mozPTIdata)
   * Sahel (Regional):  [app](https://wbg-poverty-gp.shinyapps.io/sahelPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/sahelPTI) and [preparing data](https://github.com/wbPTI/sahelPTIdata)
   * Senegal:  [app](https://w0lxdrconn01.worldbank.org/senPTI/)), GitHub repo for [launching the app](https://github.com/wbPTI/senPTI) and [preparing data](https://github.com/wbPTI/west_africa_4_PTIdata)
@@ -31,6 +33,7 @@ The links and source codes to the PTI dashboards (for selected countries) are av
   * South Sudan:  [app](https://wbg-poverty-gp.shinyapps.io/ssdPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/ssdPTI) and [preparing data](https://github.com/wbPTI/ssdPTIdata)
   * Sudan:  [app](https://wbg-poverty-gp.shinyapps.io/sdnPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/sdnPTI) and [preparing data](https://github.com/wbPTI/sdnPTIdata)
   * Tanzania: [app](http://w0lxprconn01.worldbank.org:3939/tzaPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/tzaPTI) and [preparing data](https://github.com/wbPTI/tzaPTIdata)
+  * The Gambia:  [app](https://w0lxdrconn01.worldbank.org/gmbPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/gmbPTI) and [preparing data](https://github.com/wbPTI/west_africa_4_PTIdata)
   * Zambia:  [app (v1.0)](https://wbg-poverty-gp.shinyapps.io/zamPTI/); [app (v1.1) - MoFNP](https://ifeanyi.shinyapps.io/zamPTI/) GitHub repo for [launching the app](https://github.com/wbPTI/zamPTI) and [preparing data](https://github.com/wbPTI/zamPTIdata)
 
 </details>  
@@ -63,3 +66,4 @@ Finn, Arden Jeremy; Masaki,Takaaki. [Subnational Targeting of Project Sites Usin
 
 Masaki, Takaaki; Bosch, Lander Sonia M; Finn, Arden Jeremy; Meyer, Moritz; Haider, Syed Zeeshan; Bukin, Eduard.
 [Dashboards for Development : The Power of Geospatial Data at Your Fingertips (English)](http://documents.worldbank.org/curated/en/099552206032228352/IDU0918d19120955e04c82096b8073cb389e875a). Poverty and Equity Notes ; No. 47 Washington, D.C. : World Bank Group.
+****
