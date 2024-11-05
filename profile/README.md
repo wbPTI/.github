@@ -7,7 +7,9 @@ In the current document, we may add generic description of the organization.
 
 The Project Targeting Index (PTI) is an interactive ex-ante targeting tool that ranks geographical areas by priorities based on relevant criteria. It offers an evidence-based and transparent way to perform geographic selection of project sites. The PTI is also a useful tool for a project team and stakeholders to evaluate whether the project locations are aligned with the country strategies.
 
-For more information, visit: [Poverty & Equity GP. Project Targeting Index (PTI)](https://worldbankgroup.sharepoint.com/sites/WBPoverty/SitePages/PublishingPages/D4OI%20%E2%80%93%20PTI-1649796093454.aspx)
+For more information, visit: [Poverty & Equity GP. Project Targeting Index (PTI)](https://worldbankgroup.sharepoint.com/sites/WBPoverty/SitePages/PublishingPages/D4OI%20%E2%80%93%20PTI-1649796093454.aspx). 
+
+Technical details on how to build a PTI dashboard are provided in this [guide](https://datanalytics.worldbank.org/pti_guide/).
 
 The links and source codes to the PTI dashboards (for selected countries) are available below. 
 
