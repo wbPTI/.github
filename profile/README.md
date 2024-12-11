@@ -64,6 +64,90 @@ The links and source codes to the PTI dashboards (for selected countries) are av
 
 </details> 
 
+## Creating a New PTI Project
+
+Creating a new PTI project involves two parts:
+1. Data preparation repository
+2. Dashboard application
+
+### Part 1: Data Preparation Repository
+
+1. Install cookiecutter:
+   ```bash
+   pip install cookiecutter
+   ```
+
+2. Create a new data repository:
+   ```bash
+   cookiecutter gh:wbPTI/templatePTIdata
+   ```
+
+3. You'll be prompted for:
+   - Country code (3-letter ISO code, e.g., som for Somalia)
+   - Your username
+   - Whether you're a World Bank user
+   - Other configuration options
+
+4. The template creates:
+   ```
+   countryPTIdata/
+   ├── R/
+   ├── data-raw/
+   ├── data-clean/
+   ├── figures/
+   └── vignettes/
+       ├── 0_set_path.R
+       └── 100_compilation.Rmd
+   ```
+
+5. Update and run the compilation script to generate metadata.
+
+### Part 2: Dashboard Application
+
+1. Create a new dashboard repository:
+   ```bash
+   cookiecutter gh:wbPTI/templatePTI
+   ```
+
+2. You'll be prompted for:
+   - Country code (same as data repo)
+   - Country name (full name)
+   - Author information
+
+3. The template creates:
+   ```
+   countryPTI/
+   ├── app-data/
+   ├── rsconnect/
+   ├── app.R
+   ├── countryPTI.Rproj
+   └── README.md
+   ```
+
+4. Connect the repositories:
+   - Copy files from data repository's output to dashboard's app-data:
+     - admin_bounds.rds
+     - metadata.pdf
+     - mtdt.xlsx
+     - varlist.csv
+
+5. Launch the application:
+   - Open the .Rproj file in RStudio
+   - Install required packages:
+     ```R
+     install.packages("devPTIpack")
+     ```
+   - Run app.R to test locally
+   - Deploy using the "Publish" button in RStudio or:
+     ```R
+     rsconnect::deployApp()
+     ```
+  ### Part 2: Deploying the app
+
+  The World Bank has a Posit Connect license and we encourage PTI apps to be hosted on the Bank Posit Connect server. To deploy the app to the server, please take the following steps:
+  1. Request for an account [here](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&table=sc_cat_item&sys_id=990fc3681bf47850a4d2fff7cc4bcbca&searchTerm=posit%20connect).
+  2. Once you have your account, follow [this guideline](https://datanalytics-int.worldbank.org/user-guide/wb-connect-users-guide.html#accessing-applications) to deploy an app.
+For any inquiries regarding the deployment of apps to the Bank's Posit Connect server, please write to Tony Henri Mathias Jany Fujs <tfujs@worldbank.org>. 
 
 ## Citations
 
