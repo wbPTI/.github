@@ -18,10 +18,10 @@ The links and source codes to the PTI dashboards (for selected countries) are av
 <details>
   <summary>Click to view list of apps and links to source codes in the region</summary>
 
-  * Cameroon: [app](http://w0lxprconn01.worldbank.org:3939/cmrPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/cmrPTI) and [preparing data](https://github.com/wbPTI/cmrPTIdata)
+  * Cameroon: [app](http://w0lxdrconn01.worldbank.org/cmrPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/cmrPTI) and [preparing data](https://github.com/wbPTI/cmrPTIdata)
   * Benin:  [app](https://w0lxdrconn01.worldbank.org/benPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa_PTI) and [preparing data](https://github.com/wbPTI/west_africa_PTIdata)
-  * Burundi: [app](http://w0lxprconn01.worldbank.org:3939/bdiPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/bdiPTI) and [preparing data](https://github.com/wbPTI/bdiPTIdata)
-  * Democratic Republic of Congo:  [app](https://wbg-poverty-gp.shinyapps.io/drcPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/drcPTI) and [preparing data](https://github.com/wbPTI/drcPTIdata)
+  * Burundi: [app](http://w0lxdrconn01.worldbank.org/bdiPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/bdiPTI) and [preparing data](https://github.com/wbPTI/bdiPTIdata)
+  * Democratic Republic of Congo:  [app](http://w0lxdrconn01.worldbank.org/drcPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/drcPTI) and [preparing data](https://github.com/wbPTI/drcPTIdata)
   * Cabo Verde:  [app](https://w0lxdrconn01.worldbank.org/cpvPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/cpvPTI) and [preparing data](https://github.com/wbPTI/west_africa_4_PTIdata)
   * Cote d'Ivoire:  [app](https://w0lxdrconn01.worldbank.org/civPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/west_africa_PTI) and [preparing data](https://github.com/wbPTI/west_africa_PTIdata)
   * Ghana:  [app](https://w0lxdrconn01.worldbank.org/ghaPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/ghaPTI) and [preparing data](https://github.com/wbPTI/west_africa_3_PTIdata)
@@ -48,8 +48,8 @@ The links and source codes to the PTI dashboards (for selected countries) are av
 <details>
   <summary>Click to view list of apps and links to source codes in the region</summary>
 
-  * Morocco: [app](http://w0lxprconn01.worldbank.org:3939/marPTI/)
-  * Yemen: [app](http://w0lxprconn01.worldbank.org:3939/yemPTI/)
+  * Morocco: [app](https://w0lxdrconn01.worldbank.org/marPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/r-shiny/)
+  * Yemen: [app](https://w0lxdrconn01.worldbank.org/yemPTI/), GitHub repo for [launching the app](https://github.com/wbPTI/r-shiny/)
 </details>  
 
 ## East Asia and the Pacific Islands (EAP)
@@ -145,7 +145,7 @@ Creating a new PTI project involves two parts:
   ### Part 2: Deploying the app
 
   The World Bank has a Posit Connect license and we encourage PTI apps to be hosted on the Bank Posit Connect server. To deploy the app to the server, please take the following steps:
-  1. Request for an account [here](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&table=sc_cat_item&sys_id=990fc3681bf47850a4d2fff7cc4bcbca&searchTerm=posit%20connect).
+  1. Request an account [here](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&table=sc_cat_item&sys_id=990fc3681bf47850a4d2fff7cc4bcbca&searchTerm=posit%20connect).
   2. Once you have your account, follow [this guideline](https://datanalytics-int.worldbank.org/user-guide/wb-connect-users-guide.html#accessing-applications) to deploy an app.
 For any inquiries regarding the deployment of apps to the Bank's Posit Connect server, please write to Tony Henri Mathias Jany Fujs <tfujs@worldbank.org>. 
 
